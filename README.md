@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Zainab 👋
 
-<!--
-**zaynabseleim-dotcom/zaynabseleim-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+I'm currently learning and building projects in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C++ & Data Structures
+- Database Management & SQL
+- HTML, CSS & JavaScript
+
+### Tools & Technologies
+- Visual Studio Code
+- Git & GitHub
+- PostgreSQL
+
+### Currently Working On
+- Improving my problem-solving skills
+- Building practical software projects
+
+Thanks for visiting my profile!
